@@ -12,7 +12,7 @@
 <div class="container mt-3">
   <h2>Basic Card</h2>
   <div class="card">
-    <div class="card-body">Basic card, This is card less</div>
+    <div class="card-body">Basic card, This is card less, Thanks</div>
   </div>
 </div>
 
